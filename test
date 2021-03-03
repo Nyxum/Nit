@@ -1,0 +1,60 @@
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Aff não sou o Zv"; -- o titulo
+	Text = "Para de pensar isso"; -- o texto ok
+	Duration = 5; -- duração
+})
+
